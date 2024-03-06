@@ -1,2 +1,2 @@
-# sentiment_analysis
- Sentiment analysis on IMDB dataset
+# About
+Sentiment analysis on IMDB dataset using RNN and LSTM architectures.
